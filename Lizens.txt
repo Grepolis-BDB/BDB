@@ -1,1 +1,2 @@
 [Aktivierung][HWID][Kundenname][Datum]
+[03.06.2020][cd4d1df1c0618e71f14303fedbb61870][Laptop][05.06.2020]
