@@ -1,3 +1,3 @@
-[Aktivierung][HWID][Datum][Name]<
-[03.06.2020][cd4d1df1c0618e71f14303fedbb61870][05.06.2020][Laptop]<
-[03.06.2020][Trial][05.06.2020][Laptop]<
+[Aktivierung][HWID][Datum]<
+[03.06.2020][cd4d1df1c0618e71f14303fedbb61870][05.06.2020]<
+[03.06.2020][Trial][05.06.2020]<
