@@ -1,1 +1,1 @@
-[Aktivierung][HWID][Kundenname][Gültig bis]
+[Aktivierung][HWID][Kundenname][Datum]
